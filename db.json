@@ -1,1 +1,95 @@
-{}
+{
+  "movies":[
+        {
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "genre": ["Drama"],
+            "director": "Frank Darabont",
+            "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+            "rating": 9.3,
+            "poster_url": "https://example.com/shawshank_redemption.jpg"
+        },
+        {
+            "title": "The Godfather",
+            "year": 1972,
+            "genre": ["Crime", "Drama"],
+            "director": "Francis Ford Coppola",
+            "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+            "rating": 9.2,
+            "poster_url": "https://example.com/godfather.jpg"
+        },
+        {
+            "title": "The Dark Knight",
+            "year": 2008,
+            "genre": ["Action", "Crime", "Drama"],
+            "director": "Christopher Nolan",
+            "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+            "rating": 9.0,
+            "poster_url": "https://example.com/dark_knight.jpg"
+        },
+        {
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "genre": ["Crime", "Drama"],
+            "director": "Quentin Tarantino",
+            "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+            "rating": 8.9,
+            "poster_url": "https://example.com/pulp_fiction.jpg"
+        },
+        {
+            "title": "Schindler's List",
+            "year": 1993,
+            "genre": ["Biography", "Drama", "History"],
+            "director": "Steven Spielberg",
+            "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+            "rating": 8.9,
+            "poster_url": "https://example.com/schindlers_list.jpg"
+        },
+        {
+            "title": "Inception",
+            "year": 2010,
+            "genre": ["Action", "Adventure", "Sci-Fi"],
+            "director": "Christopher Nolan",
+            "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+            "rating": 8.8,
+            "poster_url": "https://example.com/inception.jpg"
+        },
+        {
+            "title": "Fight Club",
+            "year": 1999,
+            "genre": ["Drama"],
+            "director": "David Fincher",
+            "cast": ["Brad Pitt", "Edward Norton", "Meat Loaf"],
+            "rating": 8.8,
+            "poster_url": "https://example.com/fight_club.jpg"
+        },
+        {
+            "title": "Forrest Gump",
+            "year": 1994,
+            "genre": ["Drama", "Romance"],
+            "director": "Robert Zemeckis",
+            "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+            "rating": 8.8,
+            "poster_url": "https://example.com/forrest_gump.jpg"
+        },
+        {
+            "title": "The Matrix",
+            "year": 1999,
+            "genre": ["Action", "Sci-Fi"],
+            "director": "Lana Wachowski, Lilly Wachowski",
+            "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+            "rating": 8.7,
+            "poster_url": "https://example.com/the_matrix.jpg"
+        },
+        {
+            "title": "Goodfellas",
+            "year": 1990,
+            "genre": ["Biography", "Crime", "Drama"],
+            "director": "Martin Scorsese",
+            "cast": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+            "rating": 8.7,
+            "poster_url": "https://example.com/goodfellas.jpg"
+        }
+    ]
+    
+}
